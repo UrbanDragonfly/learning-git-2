@@ -1,7 +1,8 @@
 /*Global*/
 /*background change for 4.3 task, original kolor #607d8b*/
+/*reverted change*/
 body {
-    background-color: black;
+    background-color: #607d8b;
     font-family: 'Lato', serif;
 }
 
